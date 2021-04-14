@@ -1,3 +1,5 @@
+// https://medium.com/bb-tutorials-and-thoughts/next-js-how-to-proxy-to-backend-server-987174737331
+
 const express = require('express')
 const next = require('next')
 const { createProxyMiddleware } = require("http-proxy-middleware")
